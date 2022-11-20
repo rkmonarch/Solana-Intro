@@ -6,9 +6,17 @@ import NavBar from "../components/navbar"
 import Disconnected from "../components/disconnected"
 import { useWallet } from "@solana/wallet-adapter-react"
 import Connected from "../components/connected"
+import { Button, Text, HStack } from "@chakra-ui/react";
+import { MouseEventHandler, useCallback } from "react";
+import { ArrowForwardIcon } from "@chakra-ui/icons";
 
 const Home: NextPage = () => {
   const { connected } = useWallet()
+  const handleClick: MouseEventHandler<HTMLButtonElement> = useCallback(
+    async (event) => {},
+    []
+  );
+
 
   return (
     <div className={styles.container}>
@@ -45,6 +53,7 @@ const Home: NextPage = () => {
         </Stack>
       </Box>
     </div>
+
   )
 }
 

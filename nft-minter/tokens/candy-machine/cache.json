@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "5stMhsE24NxVDV1MyoC1AByK7cW894hGRDkKrGbWGR4H",
+    "candyMachineCreator": "6Eq5pb22AvS6yyM8cQPtPGnbKHYruNrCnyqRp7AnbzFB",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Horse #01",
+      "image_hash": "6dc57229e0b6a4a4c7ad8e36bd5d479a0573b255b34cb18d570b2fa3aff082c3",
+      "image_link": "https://arweave.net/FNBVsin_E3rnknZ7U4-vjc7PyKTfpq8Xxb91O-iaSw0?ext=png",
+      "metadata_hash": "0e8a9dd9b8af050fb8f99295f04a5919dea98f75496b484b1fc534d4f85111a9",
+      "metadata_link": "https://arweave.net/e0TTicTQmvqQOLjcBqZGln22NeoQzFZaHk6IbxIb7Ac",
+      "onChain": true
+    },
+    "1": {
+      "name": "Horse #02",
+      "image_hash": "6d43479d859228dc7516391c524cb6c6394801d8edf1c661f548a655712fb625",
+      "image_link": "https://arweave.net/YgbcFGZXb711oNFmMIE99tMZMnbsh-7G38l9t53mzr4?ext=png",
+      "metadata_hash": "2fd62a1e3fbdf963cdf9776d7131ce467759f9b56760c9eec35708eba417d3d7",
+      "metadata_link": "https://arweave.net/dmv4izpRNrFwIRDVZOwwCZa1pNVTGrDhFYnkGwJVpBI",
+      "onChain": true
+    },
+    "2": {
+      "name": "Horse #03",
+      "image_hash": "bb609d4d3065551984e87f9a1fcb44992143591242e4f9a4afab23b0c7cc99f6",
+      "image_link": "https://arweave.net/opdTKliEcFtBA0b5U7GVwzFszb5cTvLjViXOXHS-GN8?ext=png",
+      "metadata_hash": "50258a6b8cca1c2b8905a055ef5d20821129b4c9c0b0922d6b682f2fd9e9f3f7",
+      "metadata_link": "https://arweave.net/gl7Il_OqlwTz4A8LmGzKQMm_ztdh-n2vBXH6fB3jXOI",
+      "onChain": true
+    }
+  }
+}
